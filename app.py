@@ -58,7 +58,7 @@ def vector_embedding():
         
         
 ## Defining my input prompt
-input_prompt=st.text_input("Enter Your Question From Documents")
+input_prompt=st.text_input("Enter Your Question")
 
 if st.button("Activate Your Physics Teacher"):
     vector_embedding()
