@@ -20,7 +20,7 @@ groq_api_key=os.getenv('GROQ_API_KEY')
 
 
 ## web Application Heading
-st.title("Objectbox VectorStoreDB with LLama-3 Model")
+st.title("Your Physics Teacher- :einstein_q:")
 
 
 ## Calling the LLm model from groq site
