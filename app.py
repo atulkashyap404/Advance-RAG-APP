@@ -26,7 +26,7 @@ st.title("Objectbox VectorStoreDB with LLama-3 Model")
 ## Calling the LLm model from groq site
 
 llm=ChatGroq(groq_api_key=groq_api_key,
-             model="llama3-70b-8192")
+             model="llama-3.1-70b-versatile")
 
 
 
