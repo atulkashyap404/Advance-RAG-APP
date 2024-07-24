@@ -60,9 +60,9 @@ def vector_embedding():
 ## Defining my input prompt
 input_prompt=st.text_input("Enter Your Question From Documents")
 
-if st.button("Documents Embedding"):
+if st.button("Activate Your Physics Teacher"):
     vector_embedding()
-    st.write("Embedding Done- ObjectBox Database is ready")
+    st.write("Done- Hi, I am Your Personal Physics Teacher")
     
 import time
 
