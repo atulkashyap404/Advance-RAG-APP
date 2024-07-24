@@ -20,7 +20,7 @@ groq_api_key=os.getenv('GROQ_API_KEY')
 
 
 ## web Application Heading
-st.title("Your Physics Teacher- :einstein_q:")
+st.title("Your Physics Teacher- 👴🏻")
 
 
 ## Calling the LLm model from groq site
